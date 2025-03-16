@@ -2,7 +2,8 @@
   "files.associations": {
     "stdio.h": "c",
     "my_lib.h": "c",
-    "coroutine.h": "c"
+    "coroutine.h": "c",
+    "cstdlib": "c"
   },
 
   "cmake.buildDirectory": "${workspaceFolder}/build",
